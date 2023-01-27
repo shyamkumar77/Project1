@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai&family=Bangers&family=Bona+Nova&family=Crimson+Text&family=EB+Garamond&family=Fredoka+One&family=Great+Vibes&family=Lobster+Two&family=Martel&family=Mr+Dafoe&family=Nanum+Myeongjo&family=New+Rocker&family=Rampart+One&family=Rowdies&display=swap');
+
+
+.parent{
+    width: 100%;
+    height: 800px;
+    /* background-color: white; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items:flex-start;
+    text-align: center; /*to align in center*/
+}
+
+.col{
+    width: 18%;
+    height: 785px;
+    border: 10px solid black;
+    padding: 15px;
+    border-radius: 50px;
+    background-color:black;
+    
+}
+
+
+h3{
+    font-family: 'Rowdies', cursive;
+    font-size: x-large;
+    color: white;
+}
+
+p{
+    font-family: 'Martel', serif;
+    color: white;
+}
+
+img{
+    width: 100%;
+    height: 350px;
+    
+}
+
+button{
+    width: 80px;
+    height: 60px;
+    background-color: orange;
+    border-radius: 20px;
+    font-family: 'Rowdies', cursive;
+    font-size: large;
+
+}
+
